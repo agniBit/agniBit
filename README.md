@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep learning
 - 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on Deep learning projects and for kaggle compitations
-- 📫 How to reach me ...
+- 📫 agni.abhi00@gmail.com
 
 <!---
 amrabhiagni/amrabhiagni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
