@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Agnihotri
 - 👀 I’m interested in Deep learning
 - 🌱 I’m currently learning Flutter and React
-- 💞️ I’m looking to collaborate on Deep learning projects and for kaggle compitations
+- 💞️ I’m looking to collaborate on Deep learning projects and for kaggle competitions
 - 📫 agni.abhi00@gmail.com
 
 <!---
